@@ -62,7 +62,7 @@ extracted directly from the KiCad board file.
   driver at 20.2 mA against its 24 mA rating.
 - **Oscillator supply:** 12.1 kHz RC corner, −40 dB at 1 MHz, no peaking.
 
-Full analysis in [`ad9959_supply_board.pdf`](ad9959_supply_board.pdf).
+Full analysis in [`ad9959_supply_board.pdf`](refclk_board_doc.pdf).
 
 ## Repository
 
