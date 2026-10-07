@@ -64,17 +64,6 @@ extracted directly from the KiCad board file.
 
 Full analysis in [`ad9959_supply_board.pdf`](refclk_board_doc.pdf).
 
-## Repository
-
-```
-ad9959_supply_board.tex/.pdf   full design documentation
-BOM_verified.csv               BOM with per-part rationale and gotchas
-LAYOUT_CHECKLIST.md            pre-fab review checklist
-HANDOFF.md                     design state and decisions
-inject_fields.py               bulk-populate KiCad symbol fields
-set_netclasses.py              write net classes into .kicad_pro
-```
-
 ## Gotchas
 
 - **U2's tab is VIN, not ground** — the only regulator on the board like that.
