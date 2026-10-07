@@ -80,7 +80,3 @@ Full analysis in [`ad9959_supply_board.pdf`](refclk_board_doc.pdf).
 ## Status
 
 Schematic, layout and gerbers complete and verified. In fabrication.
-
-## Licence
-
-MIT
